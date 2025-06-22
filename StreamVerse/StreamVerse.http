@@ -1,0 +1,6 @@
+@StreamVerse_HostAddress = http://localhost:5143
+
+GET {{StreamVerse_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
